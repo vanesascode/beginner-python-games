@@ -1,4 +1,4 @@
-# My first python proyects: 5 games. 
+# My first python projects: 5 games. 
 
 ## 1. Pong
 It can be played with the computer or with a friend. And it can be played with one ball or 4
